@@ -1,1 +1,390 @@
-# vyvy10.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+       body{
+           background-color:rgb(245, 210, 245);
+       }
+       h1{
+           color:rgb(181, 101, 40);
+           
+       }
+       #cs{
+           color:rgb(240, 102, 43);
+       }
+       #bbo{
+           color:rgb(103, 18, 230);
+       }
+       #tiramisu{
+           color:rgb(133, 55, 0);
+       }
+       #rrv{
+           color:rgb(186, 34, 34);
+       }
+       #ccf{
+           background-color:rgb(252, 252, 252);
+       }
+       .step{
+           background-color:rgb(232, 243, 250);
+       }
+       
+      
+        </style>
+    </head>
+    <body>
+       
+        <h1><strong><em>Vivian's Recipe Book</em></strong></h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe-1">Recipe #1 (Carbonara)</a>
+            <a href="#ingredients-servings"><br>Ingredients and Servings</a><br> <a href="#directions"> Directions</a></li>
+            <li><a href="#recipe-2">Recipe #2 (Blueberry baked oatmeal) </a><br><a href="#ingredients-servings2">Ingredients and Servings</a><br><a href="#direction-2">Directions</a></li>
+            <li><a href="#recipe3">Recipe #3 (Tiramisu) </a><br><a href= "#ingredients-servings3">Ingredients and Servings</a><br><a href="#directions3"> Directions</a></li>
+            <li><a href="#recipe4">Recipe #4(Red velvet cake)</a><br><a href="#ingredients-servings4">Ingredients and Servings</a><br><a href="#directions4">Directions</a></li>
+            
+        </ol>
+        
+        <h2 id="recipe-1">Recipe #1</h2>
+        <h3 id="cs">Carbonara Spaghetti</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Espaguetis_carbonara.jpg/1280px-Espaguetis_carbonara.jpg"alt="Carbonara Spghetti with cheese on top" width="600">
+        <ul>
+            <li id="ingredients-servings"><strong>Time:</strong> 25 minutes<br>Prep time: 15 mins<br>Cook time: 10 mins </li>
+            
+            <li id="ingredients-servings" ><strong>Servings</strong>: 4 to 6 servings</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Dry spaghetti</td>
+                 <td>1 pound</td>
+            </tr>
+            <tr>
+             <td>Extra-virgin olive</td>
+             <td> 2 tablesppons</td>
+             </tr>
+             <tr>
+             <td>garlic cloves, finely chopped</td>
+             <td> 4 cloves</td>
+             </tr>
+             <tr>
+             <td> Large eggs</td>
+             <td> 2 </td>
+             </tr>
+              <tr>
+             <td> Freshly grated Parmigiano-Reggiano</td>
+             <td> 1 cup </td>
+             </tr>
+            <tr>
+             <td> Freshly ground black pepper
+</td>
+             <td> Depends on your choice </td>
+             </tr> 
+              <tr>
+             <td> resh flat-leaf parsley, chopped</td>
+             <td> 1 handful </td>
+             </tr> 
+             
+             
+             
+             
+             
+             
+             
+            </tbody>
+        </table>
+        <h2 id="directions">Directions</h2>
+        
+        
+        <p class="step"><strong>Step 1:</strong> While waiting for the pasta, start to repare the sauce. <strong>Make sure that the spagehetti will be hot enough when the sauce is finished</strong>. The pasta need to be hot enough to cook the raw eggs in the sauce.
+</p>
+<p class="step"><strong>Step 2:</strong> Boil salted water in a large pot. Cook the past around 8 to 10 minutes, or until the pasta is tnder yet still firm. After that, drain the pasta. Reserving 1/2 cup of starchy cooking water to use in the sauce (optional)
+<p class="step"><strong>Step 3:</strong> Meanwhile, start heating up the olive oil in a deep  skillet over <strong>medium heat</strong>. Add the pancetta and saute for about 3 mins, until the bacon is crisp and the fat is redenered. Toss the garlic into the fat and saute for less than 1 minutes.
+</p>
+<p class="step"><strong>Step 4:</strong> Add the spaghetti into the pan and toss for 2 minutes to coat the starnds with bacon fat. Mix the Parmesan and eggs together in a seperate bowl, stril until there're no lumps. emove the pan from the heat. Use the starchy cooking water to thin out the sauce until it reaches the desired consistency. Add in some grounded black pepper. Put the spaghetti onto the plate and top it off with some freshly chopped parely.
+</p>
+</p>
+   
+
+
+
+        
+    <p><em>Source: <a href="https://www.foodnetwork.com/recipes/tyler-florence/spaghetti-alla-carbonara-recipe-1914140">Recipe #1 website</a></em></p>
+    <h2 id="recipe-2">Recipe #2</h2>
+    <h3 id="bbo">Blueberry Baked Oatmeal</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Vaccinium_myrtillus_Mustikka_IMG_1100_C-_cropped.jpg/220px-Vaccinium_myrtillus_Mustikka_IMG_1100_C-_cropped.jpg" alt="blueberry" width="350">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Oatmeal.jpg/250px-Oatmeal.jpg" alt="Old fashion oat" width="350">
+    <ul>
+        <li id="ingredients-servings2"> <strong>Time:</strong> 50 minutes<br>Prep time: 10 minutes<br>Cook: 40 minutes</li>
+        <li id="ingredients-serving2"><strong>Servings:</strong> 6 to 8 servings</li>
+    </ul>
+    <table>
+    <thead>
+        <tr>
+            <th>Ingredients</th>
+            <th>Quanity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Roughly chopped pecans</td>
+            <td> 2/3 cups</td>
+        </tr>
+        <tr>
+            <td>Old-fashioned oats
+</td>
+            <td> 2 cups</td>
+        </tr>
+        <tr>
+            <td> Grounded cinamon
+</td>
+            <td> 2 teaspoons</td>
+        </tr>
+        <tr>
+            <td>Baking powder
+</td>
+            <td> 1 teaspoon</td>
+        </tr>
+        <tr>
+            <td> Fine-grain sea salt (or regular table salt
+</td>
+            <td> 3/4 teaspoon (or 1/2 teaspoon)</td>
+        </tr>
+        <tr>
+            <td>Grounded nutmeg
+</td>
+            <td> 1/4 teaspoon</td>
+        </tr>
+        <tr>
+            <td>Milk of choice
+</td>
+            <td> 1 3/4 cup</td>
+        </tr>
+        <tr>
+            <td>Maple syrup or honey
+</td>
+            <td> 1/3 cup</td>
+        </tr>
+        <tr>
+            <td>Eggs
+</td>
+            <td> 2</td>
+        </tr>
+        <tr>
+            <td>Old-fashioned oats
+</td>
+            <td> 2 cups</td>
+        </tr>
+        <tr>
+            <td> Melted unsalted butter or coconut oil
+</td>
+            <td> 3 tablespoons</td>
+        </tr>
+        <tr>
+            <td>Vanilla extract
+</td>
+            <td> 2 teaspoon</td>
+        </tr>
+        <tr>
+            <td>Fresh or forzen blueberries
+</td>
+            <td> 12 ounces</td>
+        </tr>
+        <tr>
+            <td>Sugar (optional)
+</td>
+            <td> 2 teaspoon</td>
+        </tr>
+        <tr>
+            <td>Optional toppings: Yogurt, whipped cream fresh fruits,etc
+            <td>Your choice</td>
+        </tr>
+        
+        
+    </tbody>
+        
+    </table>
+     
+    <h2 id="direction-2">Directions</h2>
+    <p class="step"><strong>Step 1:</strong> Start with preheating the oven at 375 degrees. Grease 9-inch  suare dish. When the oven is preheated, pour the nuts into a rimmed baking sheet. Toast for 4 to 5 minutes, until fragrant</p>
+    <p class="step"><strong>Step 2:</strong> Combine oats, toasted nuts, cinmon, baking powder, salt and nutmeg in a seperate bowl. Whisk until everything combined</p>
+<p class="step"><strong>Step 3:</strong> Take  smaller bowl, mix milk, maple syrup or honey, egg, 1/2 of the butter or coconut oil and solidified in conatct of the cold ingredients, microwave for 30 seconds, just until the coconut melts again</p>
+<p class="step"><strong>Step 4:</strong> Reserved 1/2 of the bluberries for topping. Then place the rest of the blueberries at botton of the baking dish. Cover the fruit with dry oats. Mkae sure the milk moves down through the oats, then pat down the any dry oats resting on top.</p>
+<p class="step"><strong>Step 5:</strong> Put the rest of the bluberries on top. Top it off with some sugar (this is optional)</p>
+<p class="step"><strong>Step 6:</strong> Baked it for 42 to 45 minutes, until the top has a golde color. Remove your baked oatmeal from the oven and let it cool down. Drizzle it with some melted butter</p>
+<p><em>You can keep this baked oatmeal in the refridgerator for 4 to 5 days.</em></p>
+<p><em>Source: <a href="https://cookieandkate.com/baked-oatmeal-recipe/">Recipe #2 website</a></em></p>
+
+<h2 id="recipe3">Recipe #3</h2>
+<h3 id="tiramisu">Tiramisu</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tiramisu_-_Raffaele_Diomede.jpg/1024px-Tiramisu_-_Raffaele_Diomede.jpg" alt="Tiramisu on a plate" width="600">
+<ul>
+    <li id="ingredients-servings3"><strong>Time:</strong> 40 minutes<br>Prep time: 30 minutes<br>Cook: 10 minutes</li>
+    <li><strong>Servings:</strong> 8 servings</li>
+</ul>
+<table>
+    <thead>
+        <tr>
+        <th>Ingredients</th>
+        <th>Quanity</th>
+            
+        </tr>
+        
+    </thead>
+    <tbody>
+       <tr>
+           <td>Large egg yolks</td>
+        <td>6</td>
+       </tr>
+        <tr>
+           <td>Sugar</td>
+        <td>3/4 cups</td>
+       </tr>
+        <tr>
+           <td>Whole milk</td>
+        <td>3/4 cups</td>
+       </tr>
+        <tr>
+           <td>Mascarpone cheese (at room temperature)</td>
+        <td>8-ounces containers</td>
+       </tr>
+        <tr>
+           <td>Espresso/strong coffee</td>
+        <td>1 1/2 cups</td>
+       </tr>
+        <tr>
+           <td>Brandy or cognac</td>
+        <td>1/2 cup</td>
+       </tr>
+        <tr>
+           <td>Italian ladyfingers(savoiardi)</td>
+        <td>30 or 32 crisp</td>
+       </tr>
+        <tr>
+           <td>Dutch-process cocoa powder</td>
+        <td>1/4 cup</td>
+       </tr>
+        <tr>
+           <td>Bittersweet chocolate, for shaving</td>
+       </tr>
+       
+    </tbody>
+</table>
+<h2 id="directions3">Directions</h2>
+    <p class="step"> <strong>Step 1:</strong> Line an 8-inch baking dish with plastic wrap, leaving a 3-inch overhang on all sides. Fill a large bowl with ice water</p>
+    <p class="step"> <strong>Step 2:</strong>Next, make the custard: Start whisking the egg yolk and sugar in a heatproof bowl set over a saucepan of barely simmering water do not let the bowl touchthe water) keep doing until the sugar is all dissolves. Slowly add in the milk and whisk constantly, untl the custard is light and foamy, about 10 minutes (the mixture should be at 170 degrees F)</p>
+    <p class="step"> <strong>Step 3:</strong> Remove the bowl from the saucepan and set in the bowl of ice water, whisk until the custard is cool, for 1 min. Put the ascarpone in a larde bowl. Fold the custard into the mascarpone with rubber spatula until it combined, then whisk until smooth. Reminder: <strong>Do not overmized or the custard will be grainy</strong></p>
+    <p class="step"><strong>Step 4:</strong>Combine the espresso anad brandy in a shallow bowl. One atime, dip the ladyfingrs in the espresso mixture until it soaked but <strong>not soggy</strong> Arrage 2 rows of about biscuits each in the baking dish. Spread one-third of the mascarpone custard over the ladyfingers. Repeat the same thing with the 2nd layer of espresso dipped ladyfingers. Top with another one-third of the custard. Repeat this with the rest of the ladyfingers, alternating directions. Spread the remaining custard on top and dust in off with the cocoa powder. Cover it with a plastic wrap; refridgerate at least 4 hours; or overnight.</p>
+    <p class="step"><strong>Step 5:</strong>Invert the plate. then flip the Tiramisu with the plate. Remove the baking dish and plastic wrap. Invert a servingplate on top of the Tiramisu and flip again so the cocoa side-up. Remove the remaining plastic wrap. Shave some choclate on top.</p>
+    <p><em>Source: <a href="https://www.foodnetwork.com/recipes/food-network-kitchen/tiramisu-recipe-2131631">Recipe #3 website</a></em></p>
+    <h2 id="recipe4">Recipe #4</h2>
+    <h3 id="rrv">Red velvet cake</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Red_Velvet_Cake_Waldorf_Astoria.jpg/1280px-Red_Velvet_Cake_Waldorf_Astoria.jpg" alt="Four-layer slice of red velvet cake" width="600">
+    <ul>
+    <li id="ingredients-servings4"><strong>Time:</strong> 1 hour<br>Prep time: 30 minutes<br>Cook: 30 minutes</li>
+    <li><strong>Servings:</strong> 6-8 servings</li>
+</ul>
+<table>
+    <thead>
+        <tr>
+            <th>Ingredients</th>
+            <th>Quanity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Vegetable oil for pan</td>
+        </tr>
+         <tr>
+            <td>All purpose flour</td>
+            <td> 2 1/2 cups</td>
+        </tr>
+         <tr>
+            <td>Sugar</td>
+            <td>1 1/2 cups</td>
+        </tr>
+         <tr>
+            <td>Baking soda</td>
+            <td>1 teaspoon</td>
+        </tr>
+         <tr>
+            <td>Fine salt</td>
+            <td>1 teaspoon</td>
+        </tr>
+         <tr>
+            <td>Cocoa powder</td>
+            <td>1 teaspoon</td>
+        </tr>
+         <tr>
+            <td>Vegetable oil</td>
+            <td>1 1/2 cups</td>
+        </tr>
+         <tr>
+            <td>Buttermilk, at room temperature</td>
+            <td>1 cup</td>
+        </tr>
+         <tr>
+            <td>Red food coloring</td>
+            <td>1 ounce</td>
+        </tr>
+         <tr>
+            <td>White distilled vinegar</td>
+            <td>1 teaspoon</td>
+        </tr>
+         <tr>
+            <td>Vanilla extract</td>
+            <td>1 teaspoon</td>
+        </tr>
+         <tr>
+            <td>Cream cheese (softened)</td>
+            <td>1 pound</td>
+        </tr>
+         <tr>
+            <td>Sifted confectioners sugar</td>
+            <td> 4 cups</td>
+        </tr>
+        
+        
+        
+    </tbody>
+</table>
+<h2 id="directions4">Directions</h2>
+        <p class="step"> <strong>Step 1:</strong> Preheat the oven to 350 degrees F. Lightly oil and flour three 9 by 1 1/2-inch round cake pans.</p>
+        <p class="step"><strong>Step 2:</strong> In a large bowl, sift together the flour, sugar, baking soda, salt, and cocoa powder. In another large bowl, whisk together the oil, buttermilk, eggs, food coloring, vinegar, and vanilla.
+</p>
+<p class="step"><strong>Step 3:</strong> Using a standing mixer, mix the dry ingredients into the wet ingredients until just combined and a smooth batter is formed.
+ </p>
+ <p class="step"><strong>Step 4:</strong>Divide the cake batter evenly among the prepared cake pans. Place the pans in the oven evenly spaced apart. Bake, rotating the pans halfway through the cooking, until the cake pulls away from the side of the pans, and a toothpick inserted in the center of the cakes comes out clean, about 30 minutes.</p>
+ <p class="step"><strong>Step 5:</strong> Remove the cakes from the oven and run a knife around the edges to loosen them from the sides of the pans. One at a time, invert the cakes onto a plate and then re-invert them onto a cooling rack, rounded-sides up. Let cool completely.</p>
+ <p class="step"><strong>Step 6:</strong> Frost the cake. Place 1 layer, rounded-side down, in the middle of a rotating cake stand. Using a palette knife or offset spatula spread some of the Cream Cheese Frosting over the top of the cake. (Spread enough frosting to make a 1/4 to 1/2-inch layer.) Carefully set another layer on top, rounded-side down, and repeat. Top with the remaining layer and cover the entire cake with the remaining frosting. Sprinkle the top with the pecans.</p>
+ <h4 id="ccf"><em>Cream cheese frosting</em></h4>
+ <p class="step"><strong>Step 1:</strong> In a standing mixer fitted with the paddle attachment, or with a hand-held electric mixer in a large bowl, mix the cream cheese, sugar, and butter on low speed until incorporated. Increase the speed to high, and mix until light and fluffy, about 5 minutes. (Occasionally turn the mixer off, and scrape the down the sides of the bowl with a rubber spatula.)
+</p>
+ <p class="step"><strong>Step 2:</strong> Reduce the speed of the mixer to low. Add the vanilla, raise the speed to high and mix briefly until fluffy (scrape down the bowl occasionally). Store in the refrigerator until somewhat stiff, before using. May be stored in the refrigerator for 3 days.
+ <p><em>Source: <a href="https://www.foodnetwork.com/recipes/southern-red-velvet-cake-recipe-2011892">Recipe #4 website</a></em></p>
+
+</p>
+
+ 
+ 
+ 
+
+    
+
+        
+    
+    
+    
+    </body>
+</html>
+
